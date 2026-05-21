@@ -8,8 +8,8 @@
 
 **paper:[https://www.sciencedirect.com/science/article/abs/pii/S0031320325016346](https://ieeexplore.ieee.org/document/10198468)**
 
-**code: [https://github.com/liruiying1/Cog-TD](https://github.com/qffang/UnGUN)**
+**code: (https://github.com/qffang/UnGUN)**
 
 ## Implicit Continuous Full-spectrum Response Network for Visible-to-Infrared Image Translation
 
-**code: [https://github.com/liruiying1/MiLD](https://github.com/qffang/Implicit-Continuous-Full-spectrum-Response-Network-for-Visible-to-Infrared-Image-Translation/blob/main/README.md)**
+**code: (https://github.com/qffang/Implicit-Continuous-Full-spectrum-Response-Network-for-Visible-to-Infrared-Image-Translation/blob/main/README.md)**
