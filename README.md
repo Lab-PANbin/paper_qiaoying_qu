@@ -12,4 +12,4 @@
 
 ## Implicit Continuous Full-spectrum Response Network for Visible-to-Infrared Image Translation
 
-**code: (https://github.com/qffang/Implicit-Continuous-Full-spectrum-Response-Network-for-Visible-to-Infrared-Image-Translation/blob/main/README.md)**
+**code: (https://github.com/qffang/ImconfuseNet/blob/main/README.md)**
